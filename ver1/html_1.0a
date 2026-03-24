@@ -1,0 +1,11 @@
+html code for webpage:
+
+<p><a href="/command/apt-get-update"> 
+<img src="images/apt-get-update.png" alt="apt get update" width="200" height="133" /></a></p>
+
+Note: all files are located on Linux in newly created user permissions directory: 
+/command
+
+For example: User Linux in group Linux would have user directory & file ownership permissions of:
+
+linux:linux
