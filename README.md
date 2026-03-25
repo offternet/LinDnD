@@ -3,7 +3,7 @@ LinuxOS Drag and Drop Control is Dragging an Icon (image) from webpage(s) to the
 **WARNING !!!!!!- Never run as root user in Terminal when doing any Drag and Drop**
 
 Created wki: 
-https://github.com/offternet/LinDnD/wiki
+https://github.com/offternet/LinDnD/wiki - Videos !!
 
 Added html Ver 1.0d files: 03/24/2026
 
