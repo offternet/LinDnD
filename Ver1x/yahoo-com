@@ -1,0 +1,13 @@
+#!/bin/bash
+
+clear
+echo ""
+echo "now opening yahoo.com"
+echo ""
+wait 5
+
+xdg-open https://yahoo.com
+
+clear
+echo ""
+echo " Waiting for next drop command"

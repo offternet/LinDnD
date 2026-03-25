@@ -1,0 +1,15 @@
+#!/bin/bash
+
+clear
+echo ""
+echo "Drop commnad is sudo apt-get update"
+echo ""
+
+sudo apt-get update
+
+echo "update done"
+echo ""
+pause -r "Press key to continue"
+clear
+echo ""
+echo " Waiting for next drop command"
