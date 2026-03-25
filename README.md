@@ -11,7 +11,7 @@ NOTE:  LinDnd - LinuxOS Drag & Drop Control is currentl in expermental **Alpha D
 
 13.0 appimage built on ubuntu with github actions - works find on Debian pure with GTK 3+.
 
-    https://github.com/sonic2kk/steamtinkerlaunch-tweaks/releases
+Size of this Download: 76.2MB  |   https://github.com/sonic2kk/steamtinkerlaunch-tweaks/releases  
 
 --------------------------------------------------
 
