@@ -7,7 +7,7 @@ https://github.com/offternet/LinDnD/wiki - Videos !!
 
 Added html Ver 1.0d files: 03/24/2026
 
-NOTE:  LinDnd - LinuxOS Drag & Drop Control is currentl in expermental **Alpha Design** and Testing phase. We are using yad gui as the DnD until we find a sutible replacement as yad only works on GTK 3+ Desktop Environments.  We do have a link to a yad AppImage that only needs to be downloaded to your GTK 3+ computer and it will work with the LinDnd script.
+NOTE: LinDnd - LinuxOS Drag & Drop Control is currently in experimental Alpha Design and Testing phase. We are using yad gui as the DnD until we find a suitable replacement as yad only works on GTK 3+ Desktop Environments. We do have a link to a yad AppImage that only needs to be downloaded to your GTK 3+ computer and it will work with the LinDnd script..
 
 13.0 appimage built on ubuntu with github actions - works find on Debian pure with GTK 3+.
 
